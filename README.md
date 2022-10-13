@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=180&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:000328,28:00458E&height=180&section=header)
 
 
 
@@ -15,15 +15,6 @@ Web developer
 * ⚡  I was mono Nidalee on League of Legends
 
 <br>
-
-### 📊 Stats
-
-<a href="http://www.github.com/torqu4to"><img align="left" src="https://github-readme-stats.vercel.app/api?username=torqu4to&custom_title=torqu4to's&nbsp;Github&nbsp;Stats&show_icons=true&count_private=true&title_color=bd93f9&text_bold=false&text_color=ffffff&icon_color=bd93f9&bg_color=0d1117&hide_border=true&show_icons=true" alt="torqu4to's GitHub stats" /></a>
-
-<a href="https://github.com/torqu4to" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torqu4to&langs_count=10&title_color=bd93f9&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Most%20%Used" alt="Top Languages" /></a>
-
-
-
 
 
 ### 🤹 Skills
@@ -42,12 +33,22 @@ Web developer
 </p>
 
 
+
+### 📊 Stats
+
+<a href="http://www.github.com/torqu4to"><img align="left" src="https://github-readme-stats.vercel.app/api?username=torqu4to&custom_title=torqu4to's&nbsp;Github&nbsp;Stats&show_icons=true&count_private=true&title_color=006EE4&text_bold=false&text_color=ffffff&icon_color=006EE4&bg_color=0d1117&hide_border=true&show_icons=true" alt="torqu4to's GitHub stats" /></a>
+
+<a href="https://github.com/torqu4to" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torqu4to&langs_count=10&title_color=006EE4&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=en&custom_title=Most%20%Used" alt="Top Languages" /></a>
+
+
+
 ### 👨‍💻 Socials
 
-<p align="left"> <a href="https://www.github.com/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"<a href="https://www.github.com/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="catProgrammation" width="180">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=100&section=footer)
 
 
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=100:000328,28:00458E&height=100&section=footer)
