@@ -8,9 +8,11 @@ Hi 👋 My name is Bruno Torquato
 Web developer
 -------------
 
+I like to solve problems and I don't stop until I solve them.
+
 * 🌍  I'm based in Franca,SP - Brazil
 * ✉️  You can contact me at [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
-* 🧠  I'm learning C and Python
+* 🧠  Currently I'm learning C and Python
 * 🤝  I'm open to collaborating on projects
 * ⚡  I was mono Nidalee on League of Legends
 
@@ -33,6 +35,7 @@ Web developer
 </p>
 
 
+<br>
 
 ### 📊 Stats
 
@@ -45,9 +48,6 @@ Web developer
 ### 👨‍💻 Socials
 
 <p align="left"<a href="https://www.github.com/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="catProgrammation" width="180">
-
 
 
 
