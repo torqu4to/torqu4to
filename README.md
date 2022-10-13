@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header)
 
 <h2 align="left">Hi 👋, I'm Bruno Torquato</h2>
 <!-- <h3 align="left">IT student | cyber security enthusiast</h3> -->
@@ -19,7 +19,7 @@
 
 
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=footer) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer)
 
 
 
