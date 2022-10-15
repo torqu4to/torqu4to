@@ -5,8 +5,8 @@
 Hi 👋 My name is Bruno Torquato
 ======================================================================================================================================
 
-Web developer
--------------
+Web developer Full Stack
+------------------------
 
 I like to solve problems and I don't stop until I solve them.
 
