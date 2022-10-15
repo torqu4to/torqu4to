@@ -12,7 +12,7 @@ I like to solve problems and I don't stop until I solve them.
 
 * 🌍  I'm based in Franca,SP - Brazil
 * ✉️  You can contact me at [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
-* 🧠  Currently I'm learning C and Python
+* 🧠  Currently I'm learning React and Python
 * 🤝  I'm open to collaborating on projects
 * ⚡  I was mono Nidalee on League of Legends
 
