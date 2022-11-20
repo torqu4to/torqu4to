@@ -2,24 +2,24 @@
 
 
 
-Hi 👋 My name is Bruno Torquato
+Olá 👋 Meu nome é Bruno Torquato
 ======================================================================================================================================
 
-Web Developer Full Stack
-------------------------
+Desenvolvedor web back-end
+--------------------------
 
-I like to solve problems and I don't stop until I solve them.
+Gosto de resolver problemas e não paro até resolvê-los.
 
-* 🌍  I'm based in Franca,SP - Brazil
-* ✉️  You can contact me at [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
-* 🧠  Currently I'm learning React and Python
-* 🤝  I'm open to collaborating on projects
-* ⚡  I was mono Nidalee on League of Legends
+* 🌍  Moro em Franca/SP - Brazil
+* ✉️  Você pode me contatar em [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
+* 🧠  Atualmente estou estudando programação orientada a objeto e arquitetura de software
+* 🤝  Estou aberto a colaborar em projetos que agreguem à minha formação profissional
+* ⚡  Já fui mono Nidalee no League of Legends
 
 <br>
 
 
-### 🤹 Skills
+### 🧑🏽‍💻 O que estou estudando
 
 
 <p align="left">
@@ -45,7 +45,7 @@ I like to solve problems and I don't stop until I solve them.
 
 
 
-### 👨‍💻 Socials
+### 🌐 Mídias Sociais
 
 <p align="left"<a href="https://www.github.com/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/torqu4to" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
