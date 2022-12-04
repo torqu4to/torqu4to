@@ -5,7 +5,7 @@
 Olá 👋 Meu nome é Bruno Torquato
 ======================================================================================================================================
 
-Desenvolvedor web back-end
+Desenvolvedor web full stack
 --------------------------
 
 Gosto de resolver problemas e não paro até resolvê-los.
