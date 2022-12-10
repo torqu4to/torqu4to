@@ -12,7 +12,7 @@ Gosto de resolver problemas e não paro até resolvê-los.
 
 * 🌍  Moro em Franca/SP - Brazil
 * ✉️  Você pode me contatar em [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
-* 🧠  Atualmente estou estudando programação orientada a objeto e arquitetura de software
+* 🧠  Atualmente estou estudando design patterns
 * 🤝  Estou aberto a colaborar em projetos que agreguem à minha formação profissional
 * ⚡  Já fui mono Nidalee no League of Legends
 
