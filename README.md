@@ -8,7 +8,6 @@ Olá 👋 Meu nome é Bruno Torquato
 Desenvolvedor web full stack
 --------------------------
 
-Gosto de resolver problemas e não paro até resolvê-los.
 
 * 🌍  Moro em Franca/SP - Brazil
 * ✉️  Você pode me contatar em [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
