@@ -11,9 +11,8 @@ Desenvolvedor web full stack
 
 * 🌍  Moro em Franca/SP - Brazil
 * ✉️  Você pode me contatar em [brunotorquato013@gmail.com](mailto:brunotorquato013@gmail.com)
-* 🧠  Atualmente estou estudando design patterns
+* 🧠  Atualmente estou estudando python
 * 🤝  Estou aberto a colaborar em projetos que agreguem à minha formação profissional
-* ⚡  Já fui mono Nidalee no League of Legends
 
 <br>
 
